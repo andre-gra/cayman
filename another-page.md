@@ -2,6 +2,7 @@
 layout: default
 title: Andrea Graglia
 description: I am a self learned fullstack developer contractor, based in Quittengo, a beautiful and tiny village in the Italian Alps.
+pdf: true
 ---
 
 ## INFO:
